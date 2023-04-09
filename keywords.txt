@@ -1,0 +1,8 @@
+This is a sentence.
+---
+This is a paragraph.
+It has multiple lines.
+It can contain any characters, including whitespace and symbols.
+---
+$pecial characters are okay too.
+This is another sentence.
